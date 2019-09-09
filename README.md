@@ -4,6 +4,7 @@ This is my professional portfolio. Built using AWS and ReactJS.
 
 ## Technologies Used
 
-- Git
-- github
-- SSH
+* [Homebrew](https://brew.sh)
+* [Git](https://git-scm.com)
+* [GitHub](https://github.com)
+* [SSH](https://www.ssh.com)
